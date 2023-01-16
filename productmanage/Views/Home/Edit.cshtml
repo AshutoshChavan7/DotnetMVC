@@ -1,0 +1,23 @@
+@using BOL;
+@using DAL;
+<style>
+    table{
+        border: 2px solid black;
+    }
+</style>
+@{
+    ViewData["Title"] = "NewProduct Page";
+}
+
+<div class="text-center">
+   <form  action="/Home/InsertProduct" method="post" >
+   <table>
+    
+   <tr><td>Product id:</td><td><input type="text" id="pid" name="ProductId" value="@Model.ProductId" readonly ></input></td></tr>
+   <tr><td>Product Name:</td><td><input type="text" id="prodname" name="Productname" value="@Model.Productname"  ></td></input></tr>
+  <tr><td>Product Price:</td><td><input type="text" id="pprice" name="Price" value="@Model.Price"></input></td></tr>
+  <tr> <td>Product Quantity:</td><td><input type="text" id="proquantity" name="Quantity" value="@Model.Quantity" ></input></td></tr>
+     <tr><td>--------------<button type="submit" id="btn" name="btn" >Update Product</button>--------------</td></tr>
+   </table>
+   </form>
+</div>
