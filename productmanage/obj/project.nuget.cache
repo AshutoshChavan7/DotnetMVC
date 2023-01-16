@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EgQYsIR3lW6ICqjWroljvWaLkJF5D9piB+qbGqGye22lmAWoHAEp47JSLt2rRmizBLmIZb9+FPh9S3ZggiRJAw==",
+  "dgSpecHash": "wW2qsbeXecAGK9IXgSXL7XmO2JQH2BGBN/k5zP8QT0Yh3qTLBrY2Zww6FQFx0/ix+90NpVgqkWtEd7M1wjjcbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\productmanage.csproj",
+  "projectFilePath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\productmanage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ashutosh\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Ashutosh\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

@@ -46,11 +46,12 @@ public class HomeController : Controller
 
     public IActionResult Edit(int id){
        Product1 pr= Dbmanager.getproductbyid(id);
+       
        return View(pr);
     }
 
     public IActionResult EditAfter(Product1 p){
-        Dbmanager.insertproduct(p);
+        Dbmanager.updateproduct(p);
          return Redirect("/Home/Index");
     }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

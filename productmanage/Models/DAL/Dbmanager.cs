@@ -37,5 +37,12 @@ CollectionContext context=new CollectionContext();
         con.SaveChanges();
     }
 
-    
+    public static void updateproduct(Product1 p){
+        CollectionContext con=new CollectionContext();
+       var pr= con.Products.Find(p.ProductId);
+       pr.Productname=p.Productname;
+       pr.Price=p.Price;
+       pr.Quantity=p.Quantity;
+        con.SaveChanges();
+    }
 }

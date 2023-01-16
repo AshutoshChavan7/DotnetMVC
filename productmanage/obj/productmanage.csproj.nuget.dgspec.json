@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\productmanage.csproj": {}
+    "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\productmanage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\productmanage.csproj": {
+    "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\productmanage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\productmanage.csproj",
+        "projectUniqueName": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\productmanage.csproj",
         "projectName": "productmanage",
-        "projectPath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\productmanage.csproj",
+        "projectPath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\productmanage.csproj",
         "packagesPath": "C:\\Users\\Ashutosh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\productmanage\\obj\\",
+        "outputPath": "C:\\Users\\Ashutosh\\Desktop\\before\\myproject\\DotnetMVC\\productmanage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ashutosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
